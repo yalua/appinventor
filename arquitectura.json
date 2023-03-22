@@ -1,0 +1,27 @@
+[{
+"id": "101",
+"Nombre": "EMILIO LÓPEZ RUÍZ DE SALAZAR",
+"Especialidad": "PATOLOGÍA DE LA EDIFICACIÓN",
+"Foto": "flechas.png"
+},
+{
+"id": "102",
+"Nombre": "JESÚS GÍL RUBIO",
+"Especialidad": "DISEÑO / CÁLCULO DE ESTRUCTURAS DE EDIFICACIÓN"
+},
+{
+"id": "103",
+"Nombre": "MARÍA AZCOITIA PLAZA",
+"Especialidad": "REHABILITACIÓN"
+},
+{
+"id": "104",
+"Nombre": "VALENTINA MERINO LÓPEZ",
+"Especialidad": "REHABILITACIÓN"
+},
+{
+"id": "105",
+"Nombre": "JAVIER LÓPEZ SANCHEZ",
+"Especialidad": "PATOLOGÍA DE LA EDIFICACIÓN"
+}
+]
